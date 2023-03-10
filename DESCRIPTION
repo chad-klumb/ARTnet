@@ -24,8 +24,8 @@ VignetteBuilder: knitr
 RoxygenNote: 7.2.2
 Encoding: UTF-8
 Remotes:
-   github::EpiModel/EpiModel@net_attr,
+   github::EpiModel/EpiModel@init_nets,
    github::EpiModel/ARTnetData@main,
-   github::EpiModel/EpiModelHIV-p@net_attr
+   github::EpiModel/EpiModelHIV-p@init_nets
 Roxygen: list(markdown = TRUE)
 Config/testthat/edition: 3
